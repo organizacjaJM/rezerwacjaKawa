@@ -25,3 +25,6 @@ namespace DelegacjeGeneryczne
         }
     }
 }
+
+
+//dziala repo
